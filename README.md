@@ -1,2 +1,2 @@
 # WenApp
-干净T松鼠主项目及分支项目的App版，现正在持续更新中（部分项目正在开发中）
+包含 WenBlog App 和 WenCloud App，已不再维护。
